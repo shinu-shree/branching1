@@ -1,0 +1,6 @@
+# Switching to a newly created branch
+	$ git checkout new_branch_name
+
+# Creating and switching to a newly created branch
+	$ git checkout -b new_branch_name
+
