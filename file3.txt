@@ -1,0 +1,6 @@
+# First push newly created branch into remote repo
+	$ git remote add <repo-name> <repo-url>
+	$ git push --set-upstream <repository-name> <branch-name>
+		or
+	$ git push -u origin --all
+
