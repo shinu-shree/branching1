@@ -1,0 +1,9 @@
+# List all the branches
+	$ git branch
+	
+# Creating a new branch
+	$ git branch new_branch_name
+
+# List all remote branches
+	$ git branch -r
+
